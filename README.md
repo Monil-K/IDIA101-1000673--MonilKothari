@@ -155,7 +155,7 @@ The chatbot can be published through a **Dialogflow web integration** and shared
 
 ### Try ScamShield AI
 
-**(https://console.dialogflow.com/api-client/demo/embedded/661a9ff0-5611-42fa-883d-db5672d15507)**
+**(https://console.dialogflow.com/api-client/demo/embedded/464e359e-891a-48a4-bc30-61c39f0fda81)**
 
 > Replace the placeholder above with the live Dialogflow web integration URL when available.
 
